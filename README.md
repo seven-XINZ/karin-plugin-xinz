@@ -4,7 +4,7 @@
 
 
 ```bash
-# 请改成你自己的仓库
+# 在karin根目录使用此命令
 git clone https://github.com/seven-XINZ/karin-plugin-xinz.git ./plugins/karin-plugin-xinz
 ```
 
