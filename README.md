@@ -11,7 +11,7 @@ git clone https://github.com/seven-XINZ/karin-plugin-xinz.git ./plugins/karin-pl
 ## 安装依赖
 
 ```bash
-pnpm install --filter=karin-plugin-template
+pnpm install --filter=karin-plugin-xinz
 ```
 
 ## 开发调试
